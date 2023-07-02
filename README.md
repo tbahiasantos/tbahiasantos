@@ -10,7 +10,7 @@
 
 Sou um estudante de Engenharia de Computação e desenvolvedor, apaixonado por TI e sempre empenhado a aprender coisas novas. Aqui você pode encontrar alguns dos meus trabalhos e estudos sobre o assunto.
 
-## Habilidades
+## Interesses
 
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tbahiasantos/tbahiasantos/blob/main/img/html.png" alt="html5" width="40" height="40"/> </a> 
