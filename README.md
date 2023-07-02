@@ -24,6 +24,6 @@ Sou um estudante de Engenharia de Computação e desenvolvedor, apaixonado por T
 <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tbahiasantos/tbahiasantos/blob/main/img/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbahiasantos&layout=compact&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbahiasantos&layout=compact&theme=tokyonight&hide_border=false" /></a>
 
 </div>
