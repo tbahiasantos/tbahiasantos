@@ -1,6 +1,6 @@
 <div align="center">
 
-## Oi, como vai você? 👋
+## Bem-vindo(a) 👋
 
 <p >
   <a href="https://github.com/tbahiasantos"><img src="https://readme-typing-svg.herokuapp.com?color=%230077ff&center=true&vCenter=true&lines=Bem-vindo(a)+ao+meu+GitHub.;Eu+sou+o+Thiago.;Estudante+de+Eng.+de+Computação.;CEFET-MG+%2C+Belo+Horizonte.+<3"></a>
